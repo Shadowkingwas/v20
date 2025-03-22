@@ -1,4 +1,4 @@
-const API_KEY = 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
+const API_KEY = "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"
 async function sendMessage() {
   const userInput = document.getElementById("userInput").value;
   const responseDiv = document.getElementById("response");
